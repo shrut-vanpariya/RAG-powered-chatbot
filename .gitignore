@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+env/
+
+# Ignore PDF files directory
+pdfFiles/
+
+# Ignore vector embeddings directory
+vectorDB/
+
+# Ignore any compiled Python files
+*.pyc
+
+# Ignore any generated files or directories
+__pycache__/
+.DS_Store
