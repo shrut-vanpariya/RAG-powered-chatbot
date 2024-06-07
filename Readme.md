@@ -1,6 +1,6 @@
 # RAG-powered chatbot for PDF Question Answering
 
-This Streamlit app serves as a chatbot interface for answering questions based on content extracted from PDF files. It utilizes various libraries and tools for natural language processing and information retrieval.
+This Streamlit app serves as a chatbot interface for answering questions based on content extracted from PDF files. It utilizes various libraries and tools for natural language processing and information retrieval. The app uses the llama2 open-source LLM and Ollama for running the model locally.
 
 ![demo-image](public/image.png)
 
