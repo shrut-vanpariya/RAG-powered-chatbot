@@ -13,3 +13,6 @@ vectorDB/
 # Ignore any generated files or directories
 __pycache__/
 .DS_Store
+
+test_data
+Rag-Chatbot.docx
